@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 🖥️ Github stat:
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=fezzopro&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fezzopro&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=fezzopro) [![Github](https://img.shields.io/github/followers/fezzopro?label=Follow&style=social)](https://github.com/fezzopro)
