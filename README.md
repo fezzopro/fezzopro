@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects
 <!--- 🤔 I’m looking for help with ...-->
 <!-- 💬 Ask me about ... -->
-- 📫 How to reach me: ... [Twitter](https://twitter.com/fezzo05) | [LinkedIn](https://www.linkedin.com/in/kamana-felix-9b6731105/)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/fezzo5) | [LinkedIn](https://www.linkedin.com/in/kamana-felix-9b6731105/)
 - 😄 Currently: ... Learning Elixir & Phoenix
 - ⚡ Fun fact: ... I feel better by solving problems
 
