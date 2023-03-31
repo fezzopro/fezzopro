@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... advanced JavaScript
+- 🔭 I’m currently working on ... advanced JavaScript, Ruby, an Ruby on Rails
 - 🌱 I’m a backend dev who's currently learning full stack development
 - 👯 I’m looking to collaborate on open source projects
 <!--- 🤔 I’m looking for help with ...-->
