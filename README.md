@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!-- 💬 Ask me about ... -->
 - 📫 How to reach me: ... [Twitter](https://twitter.com/fezzo5) | [LinkedIn](https://www.linkedin.com/in/kamana-felix-9b6731105/)
 - 😄 Currently: ... Learning Elixir & Phoenix
-- ⚡ Fun fact: ... I feel better by solving problems
+- ⚡ Fun fact: ... I feel better when solving problems
 
 
 ## 🧰 Languages and Tools:
