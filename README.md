@@ -10,9 +10,11 @@ const fullStackDeveloper = {
   fun fact: "I feel better when solving problems",
 };
 ```
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fezzopro) [![Github](https://img.shields.io/github/followers/fezzopro?label=Follow&style=social)](https://github.com/fezzopro)
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kamana-felix-9b6731105) [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)]([https://medium.com/@foyarzo621](https://medium.com/@fezzopro)) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/fezzo5) [![Mail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto://kamana.felix79+github@gmail.com)
 
 ## 🧰 Languages and Tools:
@@ -41,10 +43,11 @@ const fullStackDeveloper = {
 
 ## 🖥️ Github stat:
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=fezzopro&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fezzopro&theme=dark_dimmed&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fezzopro&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fezzopro&show_icons=true&theme=tokyonight&margin-w=5&margin-h=5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fezzopro&theme=tokyonight)
+
 <p align="left">
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=fezzopro)](https://git.io/streak-stats)
@@ -54,4 +57,4 @@ const fullStackDeveloper = {
 ---
 ## ☕ If you like my work:
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fkamana) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fkamana) 
