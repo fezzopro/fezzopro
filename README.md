@@ -46,7 +46,7 @@ const fullStackDeveloper = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=fezzopro&theme=dark_dimmed&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fezzopro&show_icons=true&theme=tokyonight&margin-w=5&margin-h=5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fezzopro&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fezzopro&layout=compact&langs_count=8&theme=tokyonight)
 
 <p align="left">
 
