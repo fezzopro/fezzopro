@@ -4,9 +4,9 @@
 const fullStackDeveloper = {
   names: "Felix KAMANA",
   located_in: "Kigali, RWANDA",
-  main_stack: [JavaScript, Nodejs, Ruby, Rails, React, PostgreSQL],
+  main_stack: [Typescript, JavaScript, Nodejs, Ruby, Rails, React, PostgreSQL],
   likes: ["Tech", "Videogames", "Photography", "🌳Nature & Animals🦝"],
-  currently_learning: [Typescript, Elixir, Phoenix],
+  currently_learning: [Elixir, Phoenix],
   fun fact: "I feel better when solving problems",
 };
 ```
