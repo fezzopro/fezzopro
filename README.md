@@ -51,7 +51,7 @@ const fullStackDeveloper = {
 
 <p align="left">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=fezzopro)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fezzopro&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </p>
 
