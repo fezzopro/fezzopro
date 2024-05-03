@@ -49,13 +49,13 @@ const fullStackDeveloper = {
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fezzopro&show_icons=true&theme=tokyonight&margin-w=5&margin-h=5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fezzopro&layout=compact&langs_count=8&theme=tokyonight)
 
-<p align="left">
+<!---  <p align="left">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fezzopro&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </p>
 
----
+--->
 ## ☕ If you like my work:
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fkamana) 
